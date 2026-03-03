@@ -2,3 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|42mm Bearing|1|$3.25|[Amazon](https://www.amazon.com/dp/B082PYMKLG?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1?tag=maslowcnc01-20)|
+|Total: |1|$3.25| |
